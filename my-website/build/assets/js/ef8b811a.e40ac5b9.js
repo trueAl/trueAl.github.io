@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[947],{6600:e=>{e.exports=JSON.parse('{"authors":[{"name":"Alexander Truemper","key":"trueal","page":null,"count":1}]}')}}]);

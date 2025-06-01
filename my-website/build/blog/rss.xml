@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>TrueAl's garden Blog</title>
+        <link>https://your-docusaurus-site.example.com/blog</link>
+        <description>TrueAl's garden Blog</description>
+        <lastBuildDate>Sun, 01 Jun 2025 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[First Blog Post]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/first-blog-post</link>
+            <guid>https://your-docusaurus-site.example.com/blog/first-blog-post</guid>
+            <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Not much to say, I am 42 years old, trying to give my life a new direction. Actually, trying to get rid of direction.]]></description>
+            <content:encoded><![CDATA[<p>Not much to say, I am 42 years old, trying to give my life a new direction. Actually, trying to get rid of direction.</p>]]></content:encoded>
+            <category>All posts</category>
+        </item>
+    </channel>
+</rss>
