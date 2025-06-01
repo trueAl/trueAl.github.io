@@ -60,7 +60,6 @@ const config = {
           onUntruncatedBlogPosts: 'warn',
         },
         theme: {
-          customCss: './src/css/custom.css',
         },
       }),
     ],
@@ -89,12 +88,12 @@ const config = {
             items: [
               {
                 label: 'Imprint',
-                to: '/docs/imprint',
+                to: '/imprint',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Alexander Truemper. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
